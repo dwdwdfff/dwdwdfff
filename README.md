@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohamed+Essam!;" />
 </h1>
-<h3 align="center" >A passionate Full-stack  developer from Kenya</h3>
+<h3 align="center" >A passionate Full-stack  developer from Egypt</h3>
 <br/>
 <div align="center">
      <h3 align="center">💻What I Do?💻</h3>
@@ -27,10 +27,10 @@
 
 <h3 align="left">📱 Connect with me 📱</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bryan-wangui-096736247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al mehmud" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__giitwa__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abduĺlah al mehmud" height="30" width="40" /></a>
-<a href="https://wa.me/254703816487" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" width="80" /></a>
-<a href="https://techbiryan.xyz" target="_blank">
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al mehmud" height="30" width="40" /></a>
+<a href="https://www.instagram.com/d4wa__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abduĺlah al mehmud" height="30" width="40" /></a>
+<a href="https://wa.me/201024697884" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" width="80" /></a>
+<a href="https://" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" height="30" width="80" />
 </a>
 
